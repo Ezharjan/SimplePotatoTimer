@@ -1,0 +1,45 @@
+body {
+    background-color: #222;
+}
+
+.timerCell
+{
+    padding-top: 32px;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.timer-controls
+{
+    text-align: center;
+}
+
+.debugVar 
+{
+
+}
+
+.hidden
+{
+    display: none;
+}
+
+.settingItem
+{
+    padding-bottom: 10px;
+}
+
+.debugVarValue
+{
+    padding: .2rem .4rem;
+    padding-top: 2px;
+    font-size: .875em;
+    color: #fff;
+    background-color: #212529;
+    border-radius: .2rem;
+}
+
+.timerPicker
+{
+
+}
