@@ -1,4 +1,7 @@
 # Roll For 🥔
+
+[Original Repository](https://github.com/drraccoony/RollForPotatoJS)
+
 This is a web-based timer.
 
 ## Reference
